@@ -1,0 +1,19 @@
+{
+  "name": "cgi_recit",
+  "version": "1.0.0",
+  "description": "因果学习算法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanghuihao725/CGI_ReCIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanghuihao725/CGI_ReCIT/issues"
+  },
+  "homepage": "https://github.com/tanghuihao725/CGI_ReCIT#readme"
+}
